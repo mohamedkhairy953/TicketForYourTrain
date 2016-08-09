@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TicketYourTrain</string>
+    <array name="Fragments">
+        <item>choooose</item>
+        <item>Book Ticket</item>
+        <item>View my Booked Tickets</item>
+        <item>My Profile</item>
+        <item>add balance</item>
+        <item>Logout</item>
+    </array>
+    <array name="type">
+        <item>Single</item>
+        <item>Return</item>
+        <item>Single_And_Return</item>
+    </array>
+    <array name="delete_or_view">
+        <item>View</item>
+        <item>Delete</item>
+    </array>
+</resources>
